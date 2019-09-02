@@ -29,7 +29,7 @@ Rrha apea erra atei chs pitod, kaca morto!
 律史前月読に合わせるべきであるが、使用頻度を考慮して *u* =「憎い」の一文字にした。標準実装では *den* が相当する。
 
 ```arlusye
-Ate bon swant ya, do bon aya deggeez te!
+Nac swant ya, u aya nac deggeez te!
 私は貴方を救ったが、貴方は私を裏切った！
 ```
 
@@ -38,7 +38,7 @@ Ate bon swant ya, do bon aya deggeez te!
 律史前月読に合わせるべきであるが、使用頻度を考慮して *i* =「聖なる」の一文字にした。標準実装では *en* が相当する。
 
 ```arlusye
-Ate hymme jex aya gyen.
+Hymme i aya gyen.
 私は謳い、貴方は紡ぐ。
 ```
 
@@ -85,8 +85,8 @@ Lex hymmnos.
 律史前月読で「聖なる未知」を意味する。
 
 ```arlusye
-Bon cexm ji Pastalia Gran.
-（私は）パスタリア・グランからやってきた。
+Chs ji Pastalia Gran.
+パスタリア・グランからやってきた者だ。
 ```
 
 ## 助動詞
@@ -105,8 +105,8 @@ Fis chs revatail.
 律史前月読で「世界の変化」を意味する。標準実装に相当する語はない。
 
 ```arlusye
-Ceb gyen dius!
-（私は）聖なる詩を紡げる！
+Ceb hymme.
+私は謳える。
 ```
 
 ### 義務 sis
